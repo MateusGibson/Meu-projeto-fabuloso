@@ -1,0 +1,8 @@
+import React from 'reacor: '#282c34', color: 'white', textAlign: 'center' }}>
+      <h1>Meu Portfólio Re</h1>
+      <p>Bem-vindo ao meu espaço profissional!</p>
+    </header>
+  );
+}
+
+export default Header;
